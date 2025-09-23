@@ -22,8 +22,7 @@ namespace AAAA
                 if (nota< 12) {
                     desa++;
                 }
-                else if (nota)
-                {
+                els{
                     
                 }
 
